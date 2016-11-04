@@ -1,0 +1,53 @@
+<trades>
+	<trade>
+		<input modid="minecraft" name="fish" meta="0" count="20"/>
+		<input modid="minecraft" name="fish" meta="1" count="6"/>
+		<output modid="Botania" name="manaResource" meta="8" count="1"/>
+		<output modid="Botania" name="rune" meta="0" count="6"/>
+	</trade>
+	<trade>
+		<input modid="minecraft" name="gold_ingot" meta="0" count="8"/>
+		<output modid="Botania" name="manaResource" meta="1" count="4"/>
+	</trade>
+	<trade>
+		<input modid="minecraft" name="yellow_flower" meta="0" count="4"/>
+		<input modid="minecraft" name="red_flower" meta="0" count="6"/>
+		<output modid="Botania" name="vineBall" meta="0" count="3"/>
+	</trade>
+	<trade>
+		<input modid="minecraft" name="prismarine_crystals" meta="0" count="20"/>
+		<output modid="Botania" name="dreamwood" meta="5" count="8"/>
+	</trade>
+	<trade>
+		<input modid="minecraft" name="magma" meta="0" count="6"/>
+		<output modid="Botania" name="prism" meta="0" count="1"/>
+	</trade>
+	<trade>
+		<input modid="Botania" name="manaCookie" meta="0" count="4"/>
+		<input modid="Botania" name="avatar" meta="0" count="1"/>
+		<output modid="Botania" name="thornChakram" meta="0" count="2"/>
+	</trade>
+	<trade>
+		<input modid="Botania" name="dice" meta="0" count="1"/>
+		<output modid="Botania" name="elementiumHelm" meta="0" count="1"/>
+		<output modid="Botania" name="elementiumChest" meta="0" count="1"/>
+		<output modid="Botania" name="elementiumLegs" meta="0" count="1"/>
+		<output modid="Botania" name="elementiumBoots" meta="0" count="1"/>
+	</trade>
+	<trade>
+		<input modid="Botania" name="mushroom" meta="3" count="6"/>
+		<input modid="Botania" name="mushroom" meta="5" count="6"/>
+		<output modid="Botania" name="cosmetic" meta="30" count="1"/>
+		<output modid="Botania" name="cosmetic" meta="29" count="1"/>
+	</trade>
+	<trade>
+		<input modid="Botania" name="quartz" meta="2" count="6"/>
+		<input modid="Botania" name="quartz" meta="3" count="3"/>
+		<output modid="Botania" name="lightRelay" meta="0" count="2"/>
+	</trade>
+	<trade>
+		<input modid="minecraft" name="pumpkin" meta="0" count="14"/>
+		<input modid="minecraft" name="melon" meta="0" count="4"/>
+		<output modid="Botania" name="laputaShard" meta="0" count="1"/>
+	</trade>
+</trades>
